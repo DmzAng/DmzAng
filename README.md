@@ -21,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmzang&exclude_repo=F55122001_Domain-Frekuensi,F55122001_Domain-Spasial,QUIZ_PCD_F55122001,UAS_KB_Kel_3,TUGAS-PCD_F55122001,Final_Project_Kel_3,&show_icons=true&locale=en&layout=compact" alt="dmzang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmzang&" alt="dmzang" /></p>
-]
