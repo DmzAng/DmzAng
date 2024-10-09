@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **dmzang23@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dimaz-anugrahman-yusuf-19w05/](https://www.linkedin.com/in/dimaz-anugrahman-yusuf-19w05/)
-
 - ⚡ Fun fact **I like to eat**
 
 <h3 align="left">Connect with me:</h3>
