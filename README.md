@@ -2,7 +2,7 @@
 <h3 align="center">Curently Cohort at Bangkit Academy 2024 - Android Learning Path | Android Enthusiast | Front-End Enthusiast</h3>
 
 - 🌱 I’m currently learning **Android Development**
-
+  
 - 📫 How to reach me **dmzang23@gmail.com**
 
 - ⚡ Fun fact **I like to eat**
